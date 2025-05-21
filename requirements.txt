@@ -1,0 +1,8 @@
+transformers
+sentence-transformers
+cohere
+langchain
+langchain-core
+langchain-text-splitters
+voyageai
+pymongo
